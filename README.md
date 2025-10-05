@@ -1,3 +1,7 @@
 # demo
-this is my first project 
-author- Druti Bhandari 
+<br>
+This is my first project.
+<br>
+Author- Druti Bhandari 
+<br> 
+I'm learning github 
